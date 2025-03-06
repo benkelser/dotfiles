@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "kimbielike",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(24, 23, 21)",
+      "toolbar_text": "rgb(204, 204, 204)",
+      "frame": "rgb(78, 14, 16)",
+      "tab_background_text": "rgb(204, 204, 204)",
+      "toolbar_field": "rgb(39, 10, 34)",
+      "toolbar_field_text": "rgb(211, 175, 134)",
+      "tab_line": "rgb(204, 204, 204)",
+      "popup": "rgb(66, 53, 35)",
+      "popup_text": "rgb(204, 204, 204)",
+      "tab_loading": "rgb(204, 204, 204)"
+    }
+  }
+}
